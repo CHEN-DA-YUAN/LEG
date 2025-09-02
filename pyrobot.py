@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+yiersan
 ik_parallel_leg_interactive_record.py with WiFi control - Fixed Version
 
 Interactive parallel-leg simulator with ESP32 WiFi synchronization:
