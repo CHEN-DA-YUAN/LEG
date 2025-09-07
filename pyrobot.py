@@ -9,7 +9,7 @@ Interactive parallel-leg simulator with ESP32 WiFi synchronization:
  - Export trajectory to CSV
  - Playback recorded trajectory in-sim
  - WiFi同步控制ESP32执行实时运动
-# CHEN-DA-YUAN 2025-09-07到此一改
+# CHEN-DA-YUAN 2025-09-07到此一改  gg
 Run:
   pip install numpy matplotlib pandas websockets
   python pyrobot.py
